@@ -13,5 +13,3 @@ elif (user_choice == "rock" and computer_choice == "scissors") or \
 else:
     print(f"You chose {user_choice} and the computer chose {computer_choice}. You lose!")
 
-#new
-print("hello")
